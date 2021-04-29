@@ -1,4 +1,4 @@
-# Usage of Room library with kotlin.
+# Usage of Room library with kotlin in Android.
 
 -You can add new user.\
 -You can delete spesific user.\
